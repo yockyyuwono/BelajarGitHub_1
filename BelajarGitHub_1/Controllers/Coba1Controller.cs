@@ -13,7 +13,7 @@ namespace BelajarGitHub_1.Controllers
         {
             return View();
         }
-        public ActionResult ViewDetail()
+        public ActionResult ViewDetail() 
         {
             return View();
         }
